@@ -1,0 +1,47 @@
+[
+  {
+    "questionText": "What is the value of `x` after this code runs? `let x = 10; x = 5;`",
+    "answerOptions": [
+      { "answerText": "10", "isCorrect": false },
+      { "answerText": "5", "isCorrect": true },
+      { "answerText": "undefined", "isCorrect": false },
+      { "answerText": "Error", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "Which message will be logged? `const time = 14; if (time < 12) { console.log('Good morning'); } else { console.log('Good afternoon'); }`",
+    "answerOptions": [
+      { "answerText": "Good morning", "isCorrect": false },
+      { "answerText": "Good afternoon", "isCorrect": true },
+      { "answerText": "Nothing will be logged", "isCorrect": false },
+      { "answerText": "An error will occur", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the data type of the variable `result`? `const result = '5' + 2;`",
+    "answerOptions": [
+      { "answerText": "Number", "isCorrect": false },
+      { "answerText": "Boolean", "isCorrect": false },
+      { "answerText": "String", "isCorrect": true },
+      { "answerText": "Object", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the output of `fruits[1]`? `const fruits = ['Apple', 'Banana', 'Cherry'];`",
+    "answerOptions": [
+      { "answerText": "Apple", "isCorrect": false },
+      { "answerText": "Banana", "isCorrect": true },
+      { "answerText": "Cherry", "isCorrect": false },
+      { "answerText": "undefined", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "How many times will the word 'Hello' be logged? `for (let i = 0; i < 3; i++) { console.log('Hello'); }`",
+    "answerOptions": [
+      { "answerText": "2", "isCorrect": false },
+      { "answerText": "4", "isCorrect": false },
+      { "answerText": "3", "isCorrect": true },
+      { "answerText": "1", "isCorrect": false }
+    ]
+  }
+]
