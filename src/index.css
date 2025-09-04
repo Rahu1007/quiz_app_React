@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  @apply bg-gradient-to-br from-dark-blue to-stormy-blue;
+/* optional base styles */
+:root {
+  color-scheme: light dark;
 }

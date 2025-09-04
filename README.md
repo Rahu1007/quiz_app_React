@@ -36,6 +36,8 @@ npm run dev
 https://github.com/Rahu1007/quiz_app_React.git
 
 ```
+
+2.
 ```
 git add -A
 
@@ -53,6 +55,7 @@ git push -u origin main
 
 # install of tailwindcss
 1.install process
+
 ```
 npm install -D tailwindcss@3
 npx tailwindcss init
@@ -60,6 +63,7 @@ npx tailwindcss init
 
 2.Configure your template paths
 Add the paths to all of your template files in your tailwind.config.js file.
+
 ```
   /** @type {import('tailwindcss').Config} */
  export default {
@@ -72,6 +76,8 @@ Add the paths to all of your template files in your tailwind.config.js file.
 ```
 
 3.Add the Tailwind directives to your CSS
+
+
 ```
 @tailwind base;
 @tailwind components;
