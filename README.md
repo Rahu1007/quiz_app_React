@@ -30,8 +30,10 @@ npm i
 4.run server 
 ```
 npm run dev
+```
 # then make github repo without on readme 
 1.clone the project
+
 ```
 https://github.com/Rahu1007/quiz_app_React.git
 
